@@ -1,0 +1,9 @@
+.HeadquaretsBrigade {
+  grid-area: main;
+}
+.BlockItem {
+  
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+}

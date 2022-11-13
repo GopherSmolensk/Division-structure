@@ -1,0 +1,30 @@
+.main {
+  grid-area: main;
+}
+.structureBlockStyle {
+  margin: 10px;
+}
+img {
+  max-width: 350px;
+  max-height: 250px;
+  border-radius: 10px;
+}
+.commandBlock {
+  display: flex;
+  justify-content: space-between;
+}
+.structureItem {
+  max-width: 150px;
+  max-height: 90px;
+  background-color: rgb(0, 251, 255);
+  margin-top: 5px;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.structureBlockTwo {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,12 @@
+.userRank {
+  width: 200px;
+  margin: 10px;
+  max-width: calc(100% - 67px);
+  overflow-wrap: break-word;
+  padding: 10px;
+  color: white;
+  background-color: rgb(73, 71, 247);
+  border-radius: 20px;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+}

@@ -1,0 +1,85 @@
+.personalElement {
+    margin         : 10px;
+    display        : flex;
+    justify-content: space-between;
+}
+
+.number {
+    margin          : 10px;
+    max-width       : calc(100% - 67px);
+    overflow-wrap   : break-word;
+    padding         : 10px;
+    color           : white;
+    background-color: rgb(73, 71, 247);
+    border-radius   : 20px;
+    display         : flex;
+    align-items     : center;
+    justify-content : center;
+}
+
+.position {
+    margin          : 10px;
+    max-width       : calc(100% - 67px);
+    overflow-wrap   : break-word;
+    padding         : 10px;
+    color           : white;
+    background-color: rgb(73, 71, 247);
+    border-radius   : 20px;
+    display         : flex;
+    align-items     : center;
+    justify-content : center;
+}
+
+.rank {
+    margin          : 10px;
+    max-width       : calc(100% - 67px);
+    overflow-wrap   : break-word;
+    padding         : 10px;
+    color           : white;
+    background-color: rgb(73, 71, 247);
+    border-radius   : 20px;
+    display         : flex;
+    align-items     : center;
+    justify-content : center;
+}
+
+.userName {
+
+    margin          : 10px;
+    max-width       : calc(100% - 67px);
+    overflow-wrap   : break-word;
+    padding         : 10px;
+    color           : white;
+    background-color: rgb(73, 71, 247);
+    border-radius   : 20px;
+    display         : flex;
+    align-items     : center;
+    justify-content : center;
+
+}
+
+.dateBirth {
+    margin          : 10px;
+    max-width       : calc(100% - 67px);
+    overflow-wrap   : break-word;
+    padding         : 10px;
+    color           : white;
+    background-color: rgb(73, 71, 247);
+    border-radius   : 20px;
+    display         : flex;
+    align-items     : center;
+    justify-content : center;
+}
+
+.placeBirth {
+    margin          : 10px;
+    max-width       : calc(100% - 67px);
+    overflow-wrap   : break-word;
+    padding         : 10px;
+    color           : white;
+    background-color: rgb(73, 71, 247);
+    border-radius   : 20px;
+    display         : flex;
+    align-items     : center;
+    justify-content : center;
+}

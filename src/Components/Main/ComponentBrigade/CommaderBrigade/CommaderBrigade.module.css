@@ -1,0 +1,22 @@
+.CommaderBrigade {
+  grid-area: main;
+}
+.CommaderWrapper {
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.description {
+  padding: 15px;
+
+}
+.userPosition {
+  padding: 10px;
+}
+.userName {
+  padding: 10px;
+}
+.userRank {
+  padding: 10px;
+
+}

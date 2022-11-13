@@ -1,0 +1,31 @@
+.navigation {
+  grid-area: navigation;
+}
+
+.navigation {
+  display       : flex;
+  flex-direction: column;
+  align-items   : center;
+
+}
+
+.navigationItem {
+  margin         : 10px;
+  font-family    : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border         : 3px solid red;
+  border-radius  : 5px;
+  display        : flex;
+  align-items    : center;
+  justify-content: center;
+  height         : 40px;
+  width          : 200px;
+  font-weight    : 700;
+  color: #000;
+}
+
+.chatFriendsBlock {
+  margin-top: 70px;
+}
+.item{
+  color: #000;
+}

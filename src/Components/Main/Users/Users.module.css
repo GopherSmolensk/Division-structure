@@ -1,0 +1,18 @@
+.Users {
+    grid-area: main;
+}
+
+
+
+
+.blockDescriptionUsers {
+    display: flex;
+}
+
+.blockUserDescription {
+    margin-left: 200px;
+}
+.btn{
+    cursor: pointer;
+}
+
